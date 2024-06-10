@@ -1,5 +1,5 @@
 # TransTracker
-CSE 282 Project
+CSE 282 Bioinformatics Algorithms Project
 
 Collaborators:
 * Chaohui Li
